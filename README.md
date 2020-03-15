@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-You can search pictures in the search bar and get imgages displaced nicely in the browser. 
+You can search pictures in the search bar and get images displaced nicely in the browser. 
 
 ### `npm start`
 
